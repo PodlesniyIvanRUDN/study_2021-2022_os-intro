@@ -3,7 +3,10 @@
 lang: ru-RU
 title: Laboratory Work №3
 author: |
-	Podlesniy Ivan Sergeevich
+	Podlesniy Ivan Sergeevich\inst{1,3}
+
+institute: |
+	\inst{1}RUDN University, Moscow, Russian Federation
 date: Moscow -- 2022
 
 ## Formatting
