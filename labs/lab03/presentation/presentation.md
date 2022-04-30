@@ -1,13 +1,11 @@
 ---
 ## Front matter
-lang: ru-RU
-title: Laboratory Work №3
-author: |
-	Podlesniy Ivan Sergeevich\inst{1,3}
+title: "Презентация по лабораторной работе №3"
+subtitle: "НКНбд-01-21"
+author: "Подлесный Иван Сергеевич"
 
-institute: |
-	\inst{1}RUDN University, Moscow, Russian Federation
-date: Moscow -- 2022
+## Generic otions
+lang: ru-RU
 
 ## Formatting
 toc: false
@@ -21,6 +19,7 @@ header-includes:
 aspectratio: 43
 section-titles: true
 ---
+
 # Презентация по Лабораторной работе №3
 
 > Подготовил Подлесный Иван Сергеевич  
